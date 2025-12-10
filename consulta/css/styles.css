@@ -419,7 +419,7 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
-  color: #E5E7EB;
+  color: #fff;
   font-size: 0.9rem;
 }
 
@@ -428,7 +428,7 @@ body {
 }
 
 .footer-copyright {
-  color: #9CA3AF;
+  color: #fff;
   font-size: 0.9rem;
 }
 
